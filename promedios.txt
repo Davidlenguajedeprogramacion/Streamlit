@@ -1,0 +1,3 @@
+Juan Perez, Promedio: 84.33
+Maria Gomez, Promedio: 91.67
+Carlos Sanchez, Promedio: 75.00

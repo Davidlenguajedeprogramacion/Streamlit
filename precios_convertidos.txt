@@ -1,0 +1,3 @@
+Producto A, Precio Convertido: 192.50
+Producto B, Precio Convertido: 462.00
+Producto C, Precio Convertido: 288.75
